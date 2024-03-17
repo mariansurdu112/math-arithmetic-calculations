@@ -1,0 +1,25 @@
+{
+  "name": "math-arithmetic-calculations",
+  "version": "1.0.0",
+  "description": "math arithmetic calculations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mariansurdu112/math-arithmetic-calculations.git"
+  },
+  "dependencies": {
+    "totalsum": "^1.0.0"
+  },
+  "keywords": [
+    "math"
+  ],
+  "author": "mariansurdu112",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mariansurdu112/math-arithmetic-calculations/issues"
+  },
+  "homepage": "https://github.com/mariansurdu112/math-arithmetic-calculations#readme"
+}
